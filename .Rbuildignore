@@ -12,6 +12,7 @@
 ^[^/]+.sh
 ^data-raw$
 ^\.dir-locals\.el$
+^development.md$
 ^doc$
 ^docker$
 ^.dockerignore.*$
